@@ -134,8 +134,13 @@ dataset
 # checkpoint
 *.pt
 
-#test img
-results
+# from G.H.
+# folders
+runs/
+socket_server/
+checkpoint
 
+# files
 *.png
 *.jpg
+events*
